@@ -4,7 +4,7 @@
 //
 //  Created by Nathaniel Burciaga on 12/11/17.
 //  Copyright © 2017 Nathaniel Burciaga. All rights reserved.
-//
+//  main view controller
 
 import UIKit
 
